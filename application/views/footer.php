@@ -1,7 +1,8 @@
-</div>
-  <footer class="container" style="text-align:center;background:transparent">
-    <small>&copy; <?= date('Y') ?> Project Diabict — CodeIgniter 3</small>
-  </footer>
-</div>
+</main>
+<footer class="footer">
+  <div class="wrapper">
+    <small>&copy; <?= date('Y'); ?> Diabict • CodeIgniter 3</small>
+  </div>
+</footer>
 </body>
 </html>
